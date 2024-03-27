@@ -1,3 +1,6 @@
+[![HitCount](https://hits.dwyl.com/drwolf03/{project}.svg?style=flat-square)](http://hits.dwyl.com/drwolf03/{project})
+
+
 <h3 style="color:DodgerBlue;" align="center">ALOHA🍁</h3>
 <p align="center">
  <b>I'm Dr_Wolf a guy who's into A.I and Cybersecurity always passionate for learning</b>
