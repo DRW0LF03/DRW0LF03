@@ -1,5 +1,4 @@
-[![HitCount](https://hits.dwyl.com/drwolf03/{project}.svg?style=flat-square)](http://hits.dwyl.com/drwolf03/{project})
-
+[![HitCount](https://hits.dwyl.com/drwolf03/drwolf03.svg?style=flat)](http://hits.dwyl.com/drwolf03/drwolf03)
 
 <h3 style="color:DodgerBlue;" align="center">ALOHA🍁</h3>
 <p align="center">
