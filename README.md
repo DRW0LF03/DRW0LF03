@@ -15,7 +15,7 @@
  <hr>
  
 - 📝 **I’m currently learning** :
-<img  width="350" src="comptia.PNG"/>
+<img  width="400" src="comptia.PNG"/>
 
 - ⚒️ **Languages-Frameworks-Tools i Use**:
 <br>
@@ -31,7 +31,7 @@
 <br>
 
 - 📫 How to reach me: drwolf612@gmail.com
-- 💬 you Ask me anything in Discord : 
+- 💬 You can ask me anything in Discord : 
 https://discordapp.com/users/306169452293259265
 
 <!--
