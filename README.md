@@ -15,11 +15,7 @@
  <hr>
  
 - 📝 **I’m currently learning** :
-<img src="https://i.ibb.co/g63b1DG/comptia.png" alt="comptia" border="0">
- 
-<img  width="100" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logoaplus.svg?sfvrsn=c1041be7_2"/>
-<img  width="100" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg?sfvrsn=c1041be7_2"/>
-<img  width="100" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=c1041be7_2"/>
+<img  width="350" src="https://i.ibb.co/g63b1DG/comptia.png"/>
 
 - ⚒️ **Languages-Frameworks-Tools i Use**:
 <br>
