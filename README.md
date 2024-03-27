@@ -15,7 +15,7 @@
  <hr>
  
 - 📝 **I’m currently learning** :
-<img  width="400" src="comptia.PNG"/>
+<img  width="600" src="comptia.PNG"/>
 
 - ⚒️ **Languages-Frameworks-Tools i Use**:
 <br>
