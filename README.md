@@ -8,7 +8,8 @@
 <img width=""src="https://cdn.discordapp.com/emojis/1083892795581943818.webp?size=96&quality=lossless" />
 </div>
 <div align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/drwolf03.png" alt="TryHackMe">
+
+   <img src="https://tryhackme-badges.s3.amazonaws.com/drwolf03.png" alt="TryHackMe">
 </div>
 
 
