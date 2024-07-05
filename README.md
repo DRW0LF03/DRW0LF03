@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=14CD1E&random=false&width=435&lines=Hey+i'm+Dr+W0lf;Welcome+to+my+profile+)](https://git.io/typing-svg)
+
 [![HitCount](https://hits.dwyl.com/drwolf03/drwolf03.svg?style=flat)](http://hits.dwyl.com/drwolf03/drwolf03)
 
 <h3 style="color:DodgerBlue;" align="center">ALOHA🍁</h3>
