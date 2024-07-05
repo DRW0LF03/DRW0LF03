@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=50&pause=1000&color=14CD1E&center=true&vCenter=true&random=false&width=435&lines=Hey+i'm+Dr+W0lf;Welcome+to+my+profile+)](https://git.io/typing-svg)
 
 
-<h3 style="color:DodgerBlue;" >ALOHA🍁</h3>
+<!-- <h3 style="color:DodgerBlue;" align="center" >ALOHA🍁</h3> -->
 <!--
 <p align="center">
  <b>I'm Dr_Wolf a guy who's into A.I and Cybersecurity always passionate for learning</b>
