@@ -14,6 +14,9 @@
 </div>
 
 
+&lt;script>
+  src="https://tryhackme.com/badge/674970";
+&lt;/script>
 <div align="center">
  <script src="https://tryhackme.com/badge/674970"></script>
  // <img src="https://tryhackme-badges.s3.amazonaws.com/drw0lf03.png" alt="TryHackMe">
