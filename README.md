@@ -12,10 +12,11 @@
 <div align="center">
 <img width=""src="https://cdn.discordapp.com/emojis/1083892795581943818.webp?size=96&quality=lossless" />
 </div>
-<script src="https://tryhackme.com/badge/674970"></script>
+
 
 <div align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/drw0lf03.png" alt="TryHackMe">
+ <script src="https://tryhackme.com/badge/674970"></script>
+ // <img src="https://tryhackme-badges.s3.amazonaws.com/drw0lf03.png" alt="TryHackMe">
 </div>
 
 
