@@ -13,12 +13,9 @@
 <img width=""src="https://cdn.discordapp.com/emojis/1083892795581943818.webp?size=96&quality=lossless" />
 </div>
 
-
-![TryHackMe Badge](https://tryhackme.com/badge/674970)
-
 <div align="center">
- <script src="https://tryhackme.com/badge/674970"></script>
- // <img src="https://tryhackme-badges.s3.amazonaws.com/drw0lf03.png" alt="TryHackMe">
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/drw0lf03.png?8" alt="TryHackMe">
 
 </div>
 
