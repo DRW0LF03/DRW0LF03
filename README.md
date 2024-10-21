@@ -10,7 +10,7 @@
 </p>
 -->
 <div align="center">
-<img width=""src="https://cdn.discordapp.com/emojis/1083892795581943818.webp?size=96&quality=lossless" />
+
 </div>
 
 <div align="center">
