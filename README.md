@@ -27,7 +27,7 @@
 - 📝 **I’m currently learning** :
 <img  width="600" src="comptia.PNG"/>
 
-and study CAPT (Certified Associate Penetration Tester) 
+and  _**CAPT (Certified Associate Penetration Tester)**_ 
 
 <br>
 
