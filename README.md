@@ -27,6 +27,9 @@
 - 📝 **I’m currently learning** :
 <img  width="600" src="comptia.PNG"/>
 
+and study CAPT (Certified Associate Penetration Tester) 
+<img width="500" src="https://preview.redd.it/ready-to-level-up-your-cybersecurity-game-the-capt-v0-nl5t6v95azjf1.png?width=640&crop=smart&auto=webp&s=f43a8b4044eaec3b2f38d726322de59e02311fcb"/>
+
 - ⚒️ **Languages-Frameworks-Tools i Use**:
 <br>
 
